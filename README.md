@@ -4,7 +4,7 @@ Code for the paper: https://arxiv.org/abs/2402.10046.
 
 # Recreating Experiments
 
-## Synthetic and CIFAR-10 Experiments
+## Synthetic and CIFAR Experiments
 All the synthetic and CIFAR-10 plots from the paper can be recreated by running the notebook `notebooks/cifar_experiments.ipynb`. Running this notebook requires updating the first cell to point to your project directory.
 
 ## ImageNet Experiments
